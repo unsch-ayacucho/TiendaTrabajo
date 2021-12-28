@@ -1,0 +1,74 @@
+﻿@model List<Dominio.Models.ProductoImagen>
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3 class="card-title">Elegir Imagen</h3>
+            </div>
+            <form action="@Url.Action("SubirImagen","Producto")" method="post" enctype="multipart/form-data">
+                <div class="card-body">
+                    <input name="imagen" accept="image/png,image/jpeg" type="file">
+                    <input name="pProductoId" type="hidden" value="@ViewBag.ProductoId" />
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-primary">Subir Imagen</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h4 class="card-title">Imagenes de los Productos</h4>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-sm-2">
+                            <button onclick="EliminarImg(@item.ProductoImagenId);">Eliminar</button>
+                            <a href="~/imagen/@ViewBag.ProductoId/@item.Imagen" data-toggle="lightbox" data-title="imagenes" data-gallery="gallery">
+                                <img src="~/imagen/@ViewBag.ProductoId/@item.Imagen" class="img-fluid mb-2">
+                            </a>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+            $(function () {
+                $(document).on('click', '[data-toggle="lightbox"]', function (event) {
+                    event.preventDefault();
+                    $(this).ekkoLightbox({
+                        alwaysShowClose: true
+                    });
+                });
+            });
+
+            function EliminarImg(id) {
+                if (window.confirm("Deseas Eliminar la Imagen?")) {
+                    $.ajax({
+                        type: 'POST',
+                        url: "@Url.Action("EliminarImagen", "Producto")",
+                        data: {
+                            pProductoImagenId: id
+                        },
+                        success: function (ret) {
+                            if (ret) {
+                                window.location.reload();
+                            }
+                        }
+                    });
+                }
+            }
+    </script>
+}
