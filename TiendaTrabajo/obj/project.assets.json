@@ -7173,11 +7173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\.net\\TiendaTrabajo\\TiendaTrabajo\\TiendaTrabajo.csproj",
+      "projectUniqueName": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\TiendaTrabajo\\TiendaTrabajo.csproj",
       "projectName": "TiendaTrabajo",
-      "projectPath": "D:\\Programming\\.net\\TiendaTrabajo\\TiendaTrabajo\\TiendaTrabajo.csproj",
+      "projectPath": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\TiendaTrabajo\\TiendaTrabajo.csproj",
       "packagesPath": "C:\\Users\\JHON\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\.net\\TiendaTrabajo\\TiendaTrabajo\\obj\\",
+      "outputPath": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\TiendaTrabajo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JHON\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7194,8 +7194,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Programming\\.net\\TiendaTrabajo\\Dominio\\Dominio.csproj": {
-              "projectPath": "D:\\Programming\\.net\\TiendaTrabajo\\Dominio\\Dominio.csproj"
+            "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\Dominio\\Dominio.csproj"
             }
           }
         }

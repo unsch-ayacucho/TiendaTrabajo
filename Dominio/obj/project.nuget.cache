@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NBIAkQT4kE0wpathnd6eMd1RXIO7mst1PiZO1x6QNquYVPGoSoeDk7t7dNsZyQVK8JKivcslgxQQdOg56b11pA==",
+  "dgSpecHash": "xjWbBpnT4vNerCHv3cRWuCTY3UsNTMy3BHJFV26J+/eU2q+qxCcy0YlVDoUPTDvSJRyjNEhlq8ENyIWO5jfwRQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\.net\\TiendaTrabajo\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JHON\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JHON\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EVIVNB+7tziNGNOiWh95MRCjV2NxHyYGT2pp8wcv0tpG1v0m1Fn6apDCaMEnBPVXi3mY4TSdKlGOZts2xEE26g==",
+  "dgSpecHash": "PepsUyA2aksvY3ARocnOgVoWdI3+c2tGsvMJs3PGCFQRltusugKNbCikGTbHhOJeCbR68p5Pg0LVvaiEZdE/4A==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\.net\\TiendaTrabajo\\TiendaTrabajo\\TiendaTrabajo.csproj",
+  "projectFilePath": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\TiendaTrabajo\\TiendaTrabajo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JHON\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JHON\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

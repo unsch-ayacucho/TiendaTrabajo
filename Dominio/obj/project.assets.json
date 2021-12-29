@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\.net\\TiendaTrabajo\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "D:\\Programming\\.net\\TiendaTrabajo\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\JHON\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\.net\\TiendaTrabajo\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\JHON\\Documents\\GitHub\\TiendaTrabajo\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JHON\\AppData\\Roaming\\NuGet\\NuGet.Config",
