@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8220cc3-6fa4-4aab-9a2d-14cadb141308": {
+      "ProjectGuid": "b8220cc3-6fa4-4aab-9a2d-14cadb141308",
+      "DisplayName": "TiendaTrabajo",
+      "ColorIndex": 0
+    },
+    "2618a1bc-b699-4b26-94eb-0d6cd67de038": {
+      "ProjectGuid": "2618a1bc-b699-4b26-94eb-0d6cd67de038",
+      "DisplayName": "curso-frontend-developer-practico-main",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "3bd29480-e6d6-4a18-bf48-ec841e1bff20": {
+      "ProjectGuid": "3bd29480-e6d6-4a18-bf48-ec841e1bff20",
+      "DisplayName": "Dominio",
+      "ColorIndex": 2
+    },
+    "48384102-5656-4223-9986-94046fbd6c8a": {
+      "ProjectGuid": "48384102-5656-4223-9986-94046fbd6c8a",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "ed22b3c3-f735-4ba0-afc7-a9b614f16fc0": {
+      "ProjectGuid": "ed22b3c3-f735-4ba0-afc7-a9b614f16fc0",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

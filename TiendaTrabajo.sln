@@ -1,11 +1,75 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32002.261
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaTrabajo", "TiendaTrabajo\TiendaTrabajo.csproj", "{B8220CC3-6FA4-4AAB-9A2D-14CADB141308}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaTrabajo", "TiendaTrabajo\TiendaTrabajo.csproj", "{B8220CC3-6FA4-4AAB-9A2D-14CADB141308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{3BD29480-E6D6-4A18-BF48-EC841E1BFF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{3BD29480-E6D6-4A18-BF48-EC841E1BFF20}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AdminLTE-3.1.0", "D:\Programming\.net\Tienda\AdminLTE-3.1.0\", "{58299996-6030-4DB8-BAD4-1185A2E8AD20}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_3706"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Programming\.net\Tienda\AdminLTE-3.1.0\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3706\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_3706"
+		Release.AspNetCompiler.PhysicalPath = "D:\Programming\.net\Tienda\AdminLTE-3.1.0\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_3706\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3706"
+		SlnRelativePath = "D:\Programming\.net\Tienda\AdminLTE-3.1.0\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "curso-frontend-developer-practico-main", "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\", "{2618A1BC-B699-4B26-94EB-0D6CD67DE038}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52032"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52032\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52032"
+		Release.AspNetCompiler.PhysicalPath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52032\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52032"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52032"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52032\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52032"
+		Release.AspNetCompiler.PhysicalPath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52032\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52032"
+		SlnRelativePath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{48384102-5656-4223-9986-94046FBD6C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +85,22 @@ Global
 		{3BD29480-E6D6-4A18-BF48-EC841E1BFF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BD29480-E6D6-4A18-BF48-EC841E1BFF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BD29480-E6D6-4A18-BF48-EC841E1BFF20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58299996-6030-4DB8-BAD4-1185A2E8AD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58299996-6030-4DB8-BAD4-1185A2E8AD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58299996-6030-4DB8-BAD4-1185A2E8AD20}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{58299996-6030-4DB8-BAD4-1185A2E8AD20}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2618A1BC-B699-4B26-94EB-0D6CD67DE038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2618A1BC-B699-4B26-94EB-0D6CD67DE038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2618A1BC-B699-4B26-94EB-0D6CD67DE038}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2618A1BC-B699-4B26-94EB-0D6CD67DE038}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{48384102-5656-4223-9986-94046FBD6C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48384102-5656-4223-9986-94046FBD6C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48384102-5656-4223-9986-94046FBD6C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48384102-5656-4223-9986-94046FBD6C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

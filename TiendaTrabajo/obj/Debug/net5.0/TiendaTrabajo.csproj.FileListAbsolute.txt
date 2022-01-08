@@ -298,7 +298,6 @@ C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\Tien
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\TiendaTrabajo.RazorAssemblyInfo.cache
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\TiendaTrabajo.RazorAssemblyInfo.cs
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\staticwebassets\TiendaTrabajo.StaticWebAssets.Manifest.cache
-C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\staticwebassets\TiendaTrabajo.StaticWebAssets.xml
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\scopedcss\bundle\TiendaTrabajo.styles.css
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\TiendaTrabajo.TagHelpers.input.cache
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\TiendaTrabajo.TagHelpers.output.cache
@@ -342,3 +341,7 @@ C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\Tien
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\ref\TiendaTrabajo.dll
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\TiendaTrabajo.pdb
 C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\TiendaTrabajo.genruntimeconfig.cache
+C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\Razor\Views\Home\CambiarContrasenia.cshtml.g.cs
+C:\Users\JHON\Documents\GitHub\TiendaTrabajo\TiendaTrabajo\obj\Debug\net5.0\Razor\Views\Home\Perfil.cshtml.g.cs
