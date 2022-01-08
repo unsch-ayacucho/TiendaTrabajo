@@ -64,12 +64,32 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "curso-frontend-developer-pr
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "52032"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52032"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52032\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52032"
+		Release.AspNetCompiler.PhysicalPath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52032\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52032"
 		SlnRelativePath = "D:\Programming\platzi\Curso Práctico de Frontend Developer\curso-frontend-developer-practico-main\"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{48384102-5656-4223-9986-94046FBD6C8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{48384102-5656-4223-9986-94046FBD6C8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{806B6FE7-21F6-45FA-9A4C-0FB30CB6F13F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +121,10 @@ Global
 		{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED22B3C3-F735-4BA0-AFC7-A9B614F16FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806B6FE7-21F6-45FA-9A4C-0FB30CB6F13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806B6FE7-21F6-45FA-9A4C-0FB30CB6F13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806B6FE7-21F6-45FA-9A4C-0FB30CB6F13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806B6FE7-21F6-45FA-9A4C-0FB30CB6F13F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
